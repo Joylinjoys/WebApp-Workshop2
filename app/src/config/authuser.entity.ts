@@ -17,3 +17,7 @@ export class UserEntity {
    @Column({ name: "zip_code" })
    zipCode: string;
 }
+
+
+
+
